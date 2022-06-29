@@ -7,3 +7,6 @@
 [submodule "german-traffic-signs"]
 	path = german-traffic-signs
 	url = https://bitbucket.org/jadslim/german-traffic-signs
+[submodule "traffic-signs"]
+	path = traffic-signs
+	url = https://bitbucket.org/jadslim/german-traffic-signs
