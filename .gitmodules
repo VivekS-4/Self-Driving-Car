@@ -1,0 +1,9 @@
+[submodule "track"]
+	path = track
+	url = https://github.com/VivekS-4/Self-Driving-Car
+[submodule "track_org"]
+	path = track_org
+	url = https://github.com/VivekS-4/Self-Driving-Car
+[submodule "german-traffic-signs"]
+	path = german-traffic-signs
+	url = https://github.com/VivekS-4/Self-Driving-Car
